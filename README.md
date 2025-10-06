@@ -74,3 +74,20 @@ This platform provides a **clear, detailed view of land development** — combin
 Our Land Parcel & Asset Visualization (Power&Energy) platform delivers an immersive, cloud-powered, AR/VR-ready geospatial visualization solution that merges GIS data, interactive 3D assets, and engineering precision without compromising on performance or accessibility. Cloud streaming solves the classic “can it run on my laptop?” problem — users access it instantly anywhere, on any device, enabling real land management, asset monitoring, and planning through an intuitive, engaging interface.
 
 ---
+
+## 🌐 Company Website
+Visit us at [FourEdges.io](https://fouredges.io/)
+
+---
+
+## 🔐 Data Privacy & Security
+Our **data handling approach** prioritizes **client data sovereignty** through:  
+- **On-premises deployment**  
+- **Comprehensive security controls**  
+- **Transparent operational practices**  
+
+All solutions operate **within client infrastructure**, ensuring:  
+- Complete **data ownership and control**  
+- Maintenance of **enterprise-grade security standards** throughout the **project lifecycle**
+
+---
